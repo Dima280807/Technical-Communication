@@ -1,0 +1,13 @@
+site_name: Hearts of Iron IV Starter Guide
+site_description: Beginner-friendly documentation for learning the core systems of Hearts of Iron IV.
+repo_url: https://github.com/Dima280807/Technical-Communication
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Beginner Guide: beginner-guide.md
+  - Glossary: glossary.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
