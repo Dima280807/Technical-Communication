@@ -4,6 +4,17 @@ This repository contains beginner-friendly documentation for Hearts of Iron IV, 
 
 ## Documentation Structure
 
+- [Documentation home page](docs/index.md)
+- [Beginner guide](docs/beginner-guide.md)
+- [Glossary](docs/glossary.md)
+- [MkDocs configuration](mkdocs.yml)
+- [GitHub Actions workflow](.github/workflows/docs.yml)
+
+These links work directly in GitHub, so readers can open the documentation
+without building the MkDocs site locally.
+
+## Project Files
+
 - `docs/index.md` - documentation home page
 - `docs/beginner-guide.md` - main beginner guide
 - `docs/glossary.md` - short explanations of important game terms
